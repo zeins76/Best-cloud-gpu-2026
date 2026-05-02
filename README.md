@@ -146,9 +146,6 @@ python cost_calculator.py --hours 100 --gpu rtx4090
 # See all options
 python cost_calculator.py --help
 
-# See all options
-python cost_calculator.py --help
-
 Available options:
 
 --hours     Hours of GPU usage (default: 47)
