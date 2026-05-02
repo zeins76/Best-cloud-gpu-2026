@@ -136,11 +136,10 @@ Total = (Hourly × Hours) + Egress + Storage - Bonuses
    cd B/scripts
 
 2. Run the calculator
-shell
-python cost_calculator.py
+ python cost_calculator.py
 
 This will show default comparison (47 hours, RTX 5090)
-4. Customize for your needs
+3. Customize for your needs
 # Custom hours and GPU
 python cost_calculator.py --hours 100 --gpu rtx4090
 
