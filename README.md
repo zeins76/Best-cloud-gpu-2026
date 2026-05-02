@@ -172,26 +172,23 @@ Provider        Compute    Storage    Egress     Bonus      TOTAL
 
 More Details
 
-• 📝 Full Medium writeup - Complete breakdown with screenshots
-• 📝 Cost breakdown article - Line-by-line costs
-• 🐍 Cost calculator - Python script to compare for your use case
+- 📝 [Full Medium writeup](https://medium.com/@zeinstech/i-tested-5-gpu-cloud-providers-so-you-dont-have-to-waste-your-money-bed7bd9f1d7f) - Complete breakdown with screenshots
+- 📝 [Cost breakdown article](https://medium.com/@zeinstech/i-spent-16-92-on-gpuhub-for-47-hours-476f0ed555b2) - Line-by-line costs
+- 🐍 [Cost calculator](./scripts/cost_calculator.py) - Python script to compare for your use case
 
-───
+---
 
-Updates
+## Updates
 
-• 2026-05-02: Initial release with 5 providers, 47 hours testing
-• Prices verified from provider websites (May 2026)
+- **2026-05-02**: Initial release with 5 providers, 47 hours testing
+- Prices verified from provider websites (May 2026)
 
-───
+---
 
-Disclaimer
+## Disclaimer
 
 Not sponsored. I paid for all testing myself. Prices change frequently - always check provider websites for current rates before committing.
 
 Some links may include UTM tracking (doesn't affect pricing, just helps me understand what's useful).
 
 Questions? Feel free to open an issue or reach out.
-
-
----
